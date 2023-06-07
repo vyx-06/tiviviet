@@ -1142,9 +1142,11 @@ https://webudit.cdnhks.lol/lb/premium41/index.m3u8
 https://webudit.cdnhks.lol/lb/premium525/index.m3u8
 
 
-#EXTINF:-1group-title="SPORTS" tvg-id=""tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Astro_UHD.png",1.Astro Supersports UHD
+#EXTINF:-1group-title="SPORTS" tvg-id=""tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Astro_UHD.png",
+1.Astro Supersports UHD
 http://kungtv.net:2095/play/live.php?mac=10:27:BE:2D:2D:81&stream=348094&extension=ts&play_token=DOB5M9UCDb
-#EXTINF:-1group-title="SPORTS"tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Astro_UHD.png",2.Astro Supersports UHD
+#EXTINF:-1group-title="SPORTS" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Astro_UHD.png",
+2.Astro Supersports UHD
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:23:76:45&stream=1124635&extension=ts&play_token=8xvLzrFJpH
 #EXTINF:-1group-title="SPORTS"tvg-id=""
  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Astro_UHD.png",3.Astro Supersports UHD”
