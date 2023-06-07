@@ -1142,36 +1142,37 @@ https://webudit.cdnhks.lol/lb/premium41/index.m3u8
 https://webudit.cdnhks.lol/lb/premium525/index.m3u8
 
 
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/VjM9kr5/ten-3.png" group-title="SPORTS",
+
+
+
+
+
 #EXTINF:-1group-title="SPORTS" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Astro_UHD.png",
 1.Astro Supersports UHD”
 http://kungtv.net:2095/play/live.php?mac=10:27:BE:2D:2D:81&stream=348094&extension=ts&play_token=DOB5M9UCDb
 #EXTINF:-1group-title="SPORTS" tvg-id=""tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Astro_UHD.png",
 2.Astro Supersports UHD”
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:23:76:45&stream=1124635&extension=ts&play_token=8xvLzrFJpH
-#EXTINF:-1group-title="SPORTS"tvg-id=""
- tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Astro_UHD.png",3.Astro Supersports UHD”
+#EXTINF:-1group-title="SPORTS"tvg-id=""tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Astro_UHD.png",3.Astro Supersports UHD”
 http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:74:34:8e&stream=1016544&extension=ts&play_token=1EpPfEv4wz
-#EXTINF:-1group-title="SPORTS" tvg-id=""
-tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Astro_UHD.png",4.Astro Supersports UHD”
+#EXTINF:-1group-title="SPORTS" tvg-id=""tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Astro_UHD.png",4.Astro Supersports UHD”
 http://kungtv.net:2095/play/live.php?mac=10:27:BE:2D:2D:81&stream=348094&extension=ts&play_token=P9pIHC5Mru
-#EXTINF:-1group-title="SPORTS" tvg-id=""
-tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Astro_UHD.png",5.Astro Supersports UHD”
+#EXTINF:-1group-title="SPORTS" tvg-id=""tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Astro_UHD.png",5.Astro Supersports UHD”
 http://kungtv.net:2095/play/live.php?mac=10:27:BE:2D:2D:81&stream=348094&extension=ts&play_token=P9pIHC5Mru
-#EXTINF:-1group-title="SPORTS"tvg-id=""
- tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Astro_UHD.png",6.Astro Supersports UHD”
+#EXTINF:-1group-title="SPORTS"tvg-id=""tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Astro_UHD.png",6.Astro Supersports UHD”
 http://kungtv.net:2095/play/live.php?mac=10:27:BE:15:A7:1A&stream=348094&extension=ts&play_token=4bpG5l7h9F
-#EXTINF:-1group-title="SPORTS" tvg-id=""
-tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Astro_UHD.png",7.Astro Supersports UHD”
+#EXTINF:-1group-title="SPORTS" tvg-id=""tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Astro_UHD.png",7.Astro Supersports UHD”
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:35:67:13&stream=1124635&extension=ts&play_token=Lo8TkzabXR
-#EXTINF:-1group-title="SPORTS" tvg-id=""
-tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Astro_UHD.png",8.Astro Supersports UHD”
+#EXTINF:-1group-title="SPORTS" tvg-id=""tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Astro_UHD.png",8.Astro Supersports UHD
 http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:bf:85:ba&stream=348094&extension=ts&play_token=FDS5rE9zWX
-#EXTINF:-1group-title="SPORTS" tvg-id=""
-tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Astro_UHD.png",9.Astro Supersports UHD”
-http://gooserace.xyz/live/annmarie/annmarie/3351122.m3u8
-#EXTINF:-1group-title="SPORTS"tvg-id=""
- tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Astro_UHD.png",10.Astro Supersports UHD”
+#EXTINF:-1group-title="SPORTS" tvg-id=""tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Astro_UHD.png",9.Astro Supersports UHD”http://gooserace.xyz/live/annmarie/annmarie/3351122.m3u8
+#EXTINF:-1group-title="SPORTS"tvg-id=""tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Astro_UHD.png",10.Astro Supersports UHD”
 http://kungtv.net:2095/play/live.php?mac=10:27:BE:2F:4A:B6&stream=348094&extension=ts&play_token=8VFADwOede
+
+
+
 #EXTINF:-1 group-title="SPORTS" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Sky_Sport_Uno_-_Logo_2020.svg/2560px-Sky_Sport_Uno_-_Logo_2020.svg.png" ,Sky Sport Uno
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=461
