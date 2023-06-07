@@ -1143,18 +1143,6 @@ https://webudit.cdnhks.lol/lb/premium525/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/VjM9kr5/ten-3.png" group-title="SPORTS",
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -1180,6 +1168,16 @@ http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:bf:85:ba&stream=348094
 http://gooserace.xyz/live/annmarie/annmarie/3351122.m3u8
 #EXTINF:-1,group-title="SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Astro_UHD.png",10.Astro Supersports UHD
 http://kungtv.net:2095/play/live.php?mac=10:27:BE:2F:4A:B6&stream=348094&extension=ts&play_token=8VFADwOede
+
+
+
+
+
+
+
+
+
+
 
 
 
