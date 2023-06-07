@@ -1,5 +1,4 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml"
-#EXTM3U url-tvg="https://www.bevy.be/bevyfiles/japan.xml"
 
 
 
