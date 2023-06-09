@@ -1,4 +1,5 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml" tvg-shift=0 m3uautoload=1
+#EXTM3U url-tvg="https://www.bevy.be/bevyfiles/korea.xml, https://www.bevy.be/bevyfiles/koreapremium.xml"
 #EXTM3U url-tvg="https://www.bevy.be/bevyfiles/japan.xml"
 
 
@@ -1395,7 +1396,6 @@ https://multi-playlist-zmp3.zmdcdn.me/RckDo1XPsU4/zhls/playback-realtime/111c87d
 
 ################---------------Nhật Bản--------------####################
 
-#EXTM3U url-tvg="https://www.bevy.be/bevyfiles/japan.xml"
 
 
 
@@ -1706,7 +1706,6 @@ https://code.vthanhtivi.pw/getlink/jptv3/51/playlist.m3u8
 £££££££££££££££££££££££-------Hàn Quốc----------######################
 
 
-#EXTM3U url-tvg="https://www.bevy.be/bevyfiles/korea.xml, https://www.bevy.be/bevyfiles/koreapremium.xml"
 
 
 
@@ -1926,7 +1925,7 @@ https://cntv.sbs/live?auth=230601&id=jspd
 https://cntv.sbs/live?auth=230601&id=qjs
 #EXTINF:-1 tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://live.fanmingming.com/tv/魅力足球.png" group-title="🇨🇳|Trung Quốc",魅力足球
 https://cntv.sbs/live?auth=230601&id=mlzq
-#EXTINF:-1 tvg-id="上海教育" tvg-name="上海教育" tvg-logo="https://live.fanmingming.com/tv/上海教育.png" group-title="上海",上海教育
+#EXTINF:-1 tvg-id="上海教育" tvg-name="上海教育" tvg-logo="https://live.fanmingming.com/tv/上海教育.png" group-title="🇨🇳|Trung Quốc",上海教育
 https://cntv.sbs/live?auth=230601&id=shjy
 #EXTINF:-1 tvg-id="茶" tvg-name="茶" tvg-logo="https://live.fanmingming.com/tv/茶.png" group-title="🇨🇳|Trung Quốc",茶频道
 https://cntv.sbs/live?auth=230601&id=cpd
