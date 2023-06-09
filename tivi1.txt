@@ -1772,3 +1772,397 @@ https://www.youtube.com/c/ALLTHEKPOP/live
 
 
 ################--------------Trung Quốc--------------###############
+
+
+
+
+
+#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml"
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="🇨🇳|Trung Quốc",CCTV-1
+https://cntv.sbs/live?auth=230601&id=cctv1
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="🇨🇳|Trung Quốc",CCTV-2
+https://cntv.sbs/live?auth=230601&id=cctv2
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="🇨🇳|Trung Quốc",CCTV-3
+https://cntv.sbs/live?auth=230601&id=cctv3
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="🇨🇳|Trung Quốc",CCTV-4
+https://cntv.sbs/live?auth=230601&id=cctv4
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="🇨🇳|Trung Quốc",CCTV-5
+https://cntv.sbs/live?auth=230601&id=cctv5
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="🇨🇳|Trung Quốc",CCTV-5+
+https://cntv.sbs/live?auth=230601&id=cctv5p
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="🇨🇳|Trung Quốc",CCTV-6
+https://cntv.sbs/live?auth=230601&id=cctv6
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="🇨🇳|Trung Quốc",CCTV-7
+https://cntv.sbs/live?auth=230601&id=cctv7
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="🇨🇳|Trung Quốc",CCTV-8
+https://cntv.sbs/live?auth=230601&id=cctv8
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="🇨🇳|Trung Quốc",CCTV-9
+https://cntv.sbs/live?auth=230601&id=cctv9
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="🇨🇳|Trung Quốc",CCTV-10
+https://cntv.sbs/live?auth=230601&id=cctv10
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="🇨🇳|Trung Quốc",CCTV-11
+https://cntv.sbs/live?auth=230601&id=cctv11
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="🇨🇳|Trung Quốc",CCTV-12
+https://cntv.sbs/live?auth=230601&id=cctv12
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="🇨🇳|Trung Quốc",CCTV-13
+https://cntv.sbs/live?auth=230601&id=cctv13
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="🇨🇳|Trung Quốc",CCTV-14
+https://cntv.sbs/live?auth=230601&id=cctv14
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="🇨🇳|Trung Quốc",CCTV-15
+https://cntv.sbs/live?auth=230601&id=cctv15
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="🇨🇳|Trung Quốc",CCTV-16
+https://cntv.sbs/live?auth=230601&id=cctv16
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="🇨🇳|Trung Quốc",CCTV-16 4K
+https://cntv.sbs/live?auth=230601&id=cctv164k
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="🇨🇳|Trung Quốc",CCTV-17
+https://cntv.sbs/live?auth=230601&id=cctv17
+#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="🇨🇳|Trung Quốc",CCTV-4K
+https://cntv.sbs/live?auth=230601&id=cctv4k
+#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="🇨🇳|Trung Quốc",CGTN
+https://cntv.sbs/live?auth=230601&id=cgtn
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="🇨🇳|Trung Quốc",北京卫视
+https://cntv.sbs/live?auth=230601&id=bjws
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="🇨🇳|Trung Quốc",东方卫视
+https://cntv.sbs/live?auth=230601&id=dfws
+#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="🇨🇳|Trung Quốc",天津卫视
+https://cntv.sbs/live?auth=230601&id=tjws
+#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png" group-title="🇨🇳|Trung Quốc",重庆卫视
+https://cntv.sbs/live?auth=230601&id=cqws
+#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.com/tv/黑龙江卫视.png" group-title="🇨🇳|Trung Quốc",黑龙江卫视
+https://cntv.sbs/live?auth=230601&id=hljws
+#EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://live.fanmingming.com/tv/吉林卫视.png" group-title="🇨🇳|Trung Quốc",吉林卫视
+https://cntv.sbs/live?auth=230601&id=jlws
+#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视.png" group-title="🇨🇳|Trung Quốc",辽宁卫视
+https://cntv.sbs/live?auth=230601&id=lnws
+#EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://live.fanmingming.com/tv/内蒙古卫视.png" group-title="🇨🇳|Trung Quốc",内蒙古卫视
+https://cntv.sbs/live?auth=230601&id=nmws
+#EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://live.fanmingming.com/tv/宁夏卫视.png" group-title="🇨🇳|Trung Quốc",宁夏卫视
+https://cntv.sbs/live?auth=230601&id=nxws
+#EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://live.fanmingming.com/tv/甘肃卫视.png" group-title="🇨🇳|Trung Quốc",甘肃卫视
+https://cntv.sbs/live?auth=230601&id=gsws
+#EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://live.fanmingming.com/tv/青海卫视.png" group-title="🇨🇳|Trung Quốc",青海卫视
+https://cntv.sbs/live?auth=230601&id=qhws
+#EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://live.fanmingming.com/tv/陕西卫视.png" group-title="🇨🇳|Trung Quốc",陕西卫视
+https://cntv.sbs/live?auth=230601&id=sxws
+#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://live.fanmingming.com/tv/河北卫视.png" group-title="🇨🇳|Trung Quốc",河北卫视
+https://cntv.sbs/live?auth=230601&id=hbws
+#EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://live.fanmingming.com/tv/山西卫视.png" group-title="🇨🇳|Trung Quốc",山西卫视
+https://cntv.sbs/live?auth=230601&id=sxiws
+#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://live.fanmingming.com/tv/山东卫视.png" group-title="🇨🇳|Trung Quốc",山东卫视
+https://cntv.sbs/live?auth=230601&id=sdws
+#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.com/tv/安徽卫视.png" group-title="🇨🇳|Trung Quốc",安徽卫视
+https://cntv.sbs/live?auth=230601&id=ahws
+#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://live.fanmingming.com/tv/河南卫视.png" group-title="🇨🇳|Trung Quốc",河南卫视
+https://cntv.sbs/live?auth=230601&id=hnws
+#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.com/tv/湖北卫视.png" group-title="🇨🇳|Trung Quốc",湖北卫视
+https://cntv.sbs/live?auth=230601&id=hubws
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="🇨🇳|Trung Quốc",湖南卫视
+https://cntv.sbs/live?auth=230601&id=hunws
+#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://live.fanmingming.com/tv/江西卫视.png" group-title="🇨🇳|Trung Quốc",江西卫视
+https://cntv.sbs/live?auth=230601&id=jxws
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="🇨🇳|Trung Quốc",江苏卫视
+https://cntv.sbs/live?auth=230601&id=jsws
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" group-title="🇨🇳|Trung Quốc",浙江卫视
+https://cntv.sbs/live?auth=230601&id=zjws
+#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://live.fanmingming.com/tv/东南卫视.png" group-title="🇨🇳|Trung Quốc",东南卫视
+https://cntv.sbs/live?auth=230601&id=dnws
+#EXTINF:-1 tvg-id="厦门卫视" tvg-name="厦门卫视" tvg-logo="https://live.fanmingming.com/tv/厦门卫视.png" group-title="🇨🇳|Trung Quốc",厦门卫视
+https://cntv.sbs/live?auth=230601&id=xmws
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png" group-title="🇨🇳|Trung Quốc",广东卫视
+https://cntv.sbs/live?auth=230601&id=gdws
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="🇨🇳|Trung Quốc",深圳卫视
+https://cntv.sbs/live?auth=230601&id=szws
+#EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://live.fanmingming.com/tv/广西卫视.png" group-title="🇨🇳|Trung Quốc",广西卫视
+https://cntv.sbs/live?auth=230601&id=gxws
+#EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://live.fanmingming.com/tv/云南卫视.png" group-title="🇨🇳|Trung Quốc",云南卫视
+https://cntv.sbs/live?auth=230601&id=ynws
+#EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://live.fanmingming.com/tv/贵州卫视.png" group-title="🇨🇳|Trung Quốc",贵州卫视
+https://cntv.sbs/live?auth=230601&id=gzws
+#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://live.fanmingming.com/tv/四川卫视.png" group-title="🇨🇳|Trung Quốc",四川卫视
+https://cntv.sbs/live?auth=230601&id=scws
+#EXTINF:-1 tvg-id="康巴卫视" tvg-name="康巴卫视" tvg-logo="https://live.fanmingming.com/tv/康巴卫视.png" group-title="🇨🇳|Trung Quốc",康巴卫视
+https://cntv.sbs/live?auth=230601&id=kbws
+#EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://live.fanmingming.com/tv/新疆卫视.png" group-title="🇨🇳|Trung Quốc",新疆卫视
+https://cntv.sbs/live?auth=230601&id=xjws
+#EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://live.fanmingming.com/tv/兵团卫视.png" group-title="🇨🇳|Trung Quốc",兵团卫视
+https://cntv.sbs/live?auth=230601&id=btws
+#EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://live.fanmingming.com/tv/西藏卫视.png" group-title="🇨🇳|Trung Quốc",西藏卫视
+https://cntv.sbs/live?auth=230601&id=xzws
+#EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://live.fanmingming.com/tv/海南卫视.png" group-title="🇨🇳|Trung Quốc",海南卫视
+https://cntv.sbs/live?auth=230601&id=hinws
+#EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://live.fanmingming.com/tv/三沙卫视.png" group-title="🇨🇳|Trung Quốc",三沙卫视
+https://cntv.sbs/live?auth=230601&id=ssws
+#EXTINF:-1 tvg-id="北京纪实" tvg-name="北京纪实" tvg-logo="https://live.fanmingming.com/tv/北京纪实科教.png" group-title="🇨🇳|Trung Quốc",北京纪实科教
+https://cntv.sbs/live?auth=230601&id=bjjskj
+#EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://live.fanmingming.com/tv/五星体育.png" group-title="🇨🇳|Trung Quốc",五星体育
+https://cntv.sbs/live?auth=230601&id=wxty
+#EXTINF:-1 tvg-id="东方财经" tvg-name="东方财经" tvg-logo="https://live.fanmingming.com/tv/东方财经.png" group-title="🇨🇳|Trung Quốc",东方财经
+https://cntv.sbs/live?auth=230601&id=dfcj
+#EXTINF:-1 tvg-id="上海第一财经" tvg-name="上海第一财经" tvg-logo="https://live.fanmingming.com/tv/上海第一财经.png" group-title="🇨🇳|Trung Quốc",第一财经
+https://cntv.sbs/live?auth=230601&id=dycj
+#EXTINF:-1 tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-logo="https://live.fanmingming.com/tv/哈哈炫动.png" group-title="🇨🇳|Trung Quốc",哈哈炫动
+https://cntv.sbs/live?auth=230601&id=hhxd
+#EXTINF:-1 tvg-id="SITV法治天地" tvg-name="SITV法治天地" tvg-logo="https://live.fanmingming.com/tv/SITV法治天地.png" group-title="🇨🇳|Trung Quốc",法治天地
+https://cntv.sbs/live?auth=230601&id=fztd
+#EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://live.fanmingming.com/tv/欢笑剧场.png" group-title="🇨🇳|Trung Quốc",欢笑剧场4K
+https://cntv.sbs/live?auth=230601&id=hxjc
+#EXTINF:-1 tvg-id="SITV都市剧场" tvg-name="SITV都市剧场" tvg-logo="https://live.fanmingming.com/tv/SITV都市剧场.png" group-title="🇨🇳|Trung Quốc",都市剧场
+https://cntv.sbs/live?auth=230601&id=dsjc
+#EXTINF:-1 tvg-id="SITV七彩戏剧" tvg-name="SITV七彩戏剧" tvg-logo="https://live.fanmingming.com/tv/SITV七彩戏剧.png" group-title="🇨🇳|Trung Quốc",七彩戏剧
+https://cntv.sbs/live?auth=230601&id=qcxj
+#EXTINF:-1 tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://live.fanmingming.com/tv/动漫秀场.png" group-title="🇨🇳|Trung Quốc",动漫秀场
+https://cntv.sbs/live?auth=230601&id=dmxc
+#EXTINF:-1 tvg-id="SITV劲爆体育" tvg-name="SITV劲爆体育" tvg-logo="https://live.fanmingming.com/tv/SITV劲爆体育.png" group-title="🇨🇳|Trung Quốc",劲爆体育
+https://cntv.sbs/live?auth=230601&id=jbty
+#EXTINF:-1 tvg-id="新视觉" tvg-name="新视觉" tvg-logo="https://live.fanmingming.com/tv/新视觉.png" group-title="🇨🇳|Trung Quốc",新视觉
+https://cntv.sbs/live?auth=230601&id=xsj
+#EXTINF:-1 tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://live.fanmingming.com/tv/游戏风云.png" group-title="🇨🇳|Trung Quốc",游戏风云
+https://cntv.sbs/live?auth=230601&id=yxfy
+#EXTINF:-1 tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://live.fanmingming.com/tv/生活时尚.png" group-title="🇨🇳|Trung Quốc",生活时尚
+https://cntv.sbs/live?auth=230601&id=shss
+#EXTINF:-1 tvg-id="SITV金色学堂" tvg-name="SITV金色学堂" tvg-logo="https://live.fanmingming.com/tv/SITV金色学堂.png" group-title="🇨🇳|Trung Quốc",金色学堂
+https://cntv.sbs/live?auth=230601&id=jspd
+#EXTINF:-1 tvg-id="乐游" tvg-name="乐游" tvg-logo="https://live.fanmingming.com/tv/乐游.png" group-title="🇨🇳|Trung Quốc",乐游
+https://cntv.sbs/live?auth=230601&id=qjs
+#EXTINF:-1 tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://live.fanmingming.com/tv/魅力足球.png" group-title="🇨🇳|Trung Quốc",魅力足球
+https://cntv.sbs/live?auth=230601&id=mlzq
+#EXTINF:-1 tvg-id="上海教育" tvg-name="上海教育" tvg-logo="https://live.fanmingming.com/tv/上海教育.png" group-title="上海",上海教育
+https://cntv.sbs/live?auth=230601&id=shjy
+#EXTINF:-1 tvg-id="茶" tvg-name="茶" tvg-logo="https://live.fanmingming.com/tv/茶.png" group-title="🇨🇳|Trung Quốc",茶频道
+https://cntv.sbs/live?auth=230601&id=cpd
+#EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://live.fanmingming.com/tv/快乐垂钓.png" group-title="🇨🇳|Trung Quốc",快乐垂钓
+https://cntv.sbs/live?auth=230601&id=klcd
+#EXTINF:-1 tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://live.fanmingming.com/tv/金鹰纪实.png" group-title="🇨🇳|Trung Quốc",金鹰纪实
+https://cntv.sbs/live?auth=230601&id=jyjs
+#EXTINF:-1 tvg-id="湖南金鹰卡通" tvg-name="湖南金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/湖南金鹰卡通.png" group-title="🇨🇳|Trung Quốc",金鹰卡通
+https://cntv.sbs/live?auth=230601&id=jykt
+#EXTINF:-1 tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="https://live.fanmingming.com/tv/嘉佳卡通.png" group-title="🇨🇳|Trung Quốc",嘉佳卡通
+https://cntv.sbs/live?auth=230601&id=jjkt
+#EXTINF:-1 tvg-id="财富天下" tvg-name="财富天下" tvg-logo="https://live.fanmingming.com/tv/财富天下.png" group-title="🇨🇳|Trung Quốc",财富天下
+https://cntv.sbs/live?auth=230601&id=cftx
+#EXTINF:-1 tvg-id="中国教育1台" tvg-name="中国教育1台" tvg-logo="https://live.fanmingming.com/tv/CETV1.png" group-title="🇨🇳|Trung Quốc",CETV1
+https://cntv.sbs/live?auth=230601&id=cetv1
+#EXTINF:-1 tvg-id="中国教育2台" tvg-name="中国教育2台" tvg-logo="https://live.fanmingming.com/tv/CETV2.png" group-title="🇨🇳|Trung Quốc",CETV2
+https://cntv.sbs/live?auth=230601&id=cetv2
+#EXTINF:-1 tvg-id="中国教育4台" tvg-name="中国教育4台" tvg-logo="https://live.fanmingming.com/tv/CETV4.png" group-title="🇨🇳|Trung Quốc",CETV4
+https://cntv.sbs/live?auth=230601&id=cetv4
+#EXTINF:-1 tvg-id="华语影院" tvg-name="华语影院" tvg-logo="https://live.fanmingming.com/tv/华语影院.png" group-title="🇨🇳|Trung Quốc",华语影院
+https://cntv.sbs/live?auth=230601&id=hyyy
+#EXTINF:-1 tvg-id="中国天气" tvg-name="中国天气" tvg-logo="https://live.fanmingming.com/tv/中国天气.png" group-title="🇨🇳|Trung Quốc",中国天气
+https://cntv.sbs/live?auth=230601&id=zgtq
+#EXTINF:-1 tvg-id="莲花卫视" tvg-name="莲花卫视" tvg-logo="https://live.fanmingming.com/tv/澳门莲花.png" group-title="🇨🇳|Trung Quốc",莲花卫视
+https://cntv.sbs/lhws?auth=230601
+#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="🇨🇳|Trung Quốc",凤凰香港
+https://cntv.sbs/fs?id=fhhk&auth=230601
+#EXTINF:-1 group-title="🇨🇳|Trung Quốc",日·NHK
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
+#EXTINF:-1 group-title="🇨🇳|Trung Quốc",日·QVC
+http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
+#EXTINF:-1 group-title="🇨🇳|Trung Quốc",韩·BBS佛教
+http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1403706733.m3u8
+#EXTINF:-1 group-title="🇨🇳|Trung Quốc",韩·EBS-1
+http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/groundwavetablet500k.m3u8
+#EXTINF:-1 group-title="🇨🇳|Trung Quốc",韩·EBS-1
+http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8
+#EXTINF:-1 group-title="🇨🇳|Trung Quốc",韩·EBS-1
+http://ebsonairios.ebs.co.kr/plus1tablet500k/tablet500k/plus1tablet500k.index.m3u8
+#EXTINF:-1 group-title="🇨🇳|Trung Quốc",韩·EBS-2
+http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8
+#EXTINF:-1 group-title="🇨🇳|Trung Quốc",韩·EBS-2
+http://ebsonairios.ebs.co.kr/plus2tablet500k/tablet500k/plus2tablet500k.index.m3u8
+#EXTINF:-1 group-title="🇨🇳|Trung Quốc",韩·EBS少儿
+http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8
+#EXTINF:-1 group-title="🇨🇳|Trung Quốc",韩·KBC
+http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
+#EXTINF:-1 group-title="🇨🇳|Trung Quốc",韩·KCTV
+http://119.77.96.184:1935/chn21/chn21/chunklist_w252131137.m3u8
+#EXTINF:-1 group-title="🇨🇳|Trung Quốc",韩·MTN
+http://183.110.27.87/mtnlive/_definst_/720/chunklist.m3u8
+#EXTINF:-1 group-title="🇨🇳|Trung Quốc",韩·SBS
+http://1.245.74.5:1935/live/tv/.m3u8
+#EXTINF:-1 group-title="🇨🇳|Trung Quốc",韩·阿里郎
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 group-title="🇨🇳|Trung Quốc",韩·阿里郎WORLD
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch/master.m3u8
+#EXTINF:-1 group-title="🇨🇳|Trung Quốc",韩·职业
+http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8
+#EXTINF:-1 group-title="🇨🇳|Trung Quốc",CGTN
+http://live.cgtn.com/1000/prog_index.m3u8
+#EXTINF:-1 group-title="🇨🇳|Trung Quốc",CGTN阿语
+http://livear.cgtn.com/1000a/prog_index.m3u8
+#EXTINF:-1 group-title="🇨🇳|Trung Quốc",CGTN西语
+http://livees.cgtn.com/1000e/prog_index.m3u8
+#EXTINF:-1 group-title="🇨🇳|Trung Quốc",CGTN俄语
+http://liveru.cgtn.com/1000r/prog_index.m3u8
+#EXTINF:-1 group-title="🇨🇳|Trung Quốc",CGTN纪实
+https://livedoc.cgtn.com/500d/prog_index.m3u8
+#EXTINF:-1 group-title="🇨🇳|Trung Quốc",Channel News Asia
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 group-title="🇨🇳|Trung Quốc",Channel News Asia『蓝光』
+http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 group-title="🇨🇳|Trung Quốc",CNA(1080p)[480*270]
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+#EXTINF:-1 group-title="🇨🇳|Trung Quốc",NDTV 24X7[640*480]
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
+#EXTINF:-1 group-title="🇨🇳|Trung Quốc",THAIPBS-3
+http://thaipbs-live.cdn.byteark.com/live/playlist_480p/index.m3u8
+#EXTINF:-1 group-title="🇨🇳|Trung Quốc",VB
+http://live.tv2bornholm.dk/stream/live/chunklist.m3u8
+#EXTINF:-1 group-title="🇨🇳|Trung Quốc",ZEEALWAN50
+http://ghaasiflu.online/Dijlah/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="🇨🇳|Trung Quốc",半·新闻
+http://live-hls-web-aja.getaj.net/AJA/02.m3u8
+#EXTINF:-1 group-title="🇨🇳|Trung Quốc",俄·IGITV蓝光
+http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+#EXTINF:-1 group-title="🇨🇳|Trung Quốc",俄·RBC(Opt-1)[996*560]
+http://92.50.128.180/utv/1358/index.m3u8
+#EXTINF:-1 group-title="🇨🇳|Trung Quốc",俄·音乐TROSoyuz
+http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
+#EXTINF:-1 group-title="🇨🇳|Trung Quốc",法·24台
+http://tv.balkanweb.com/news24/livestream/playlist.m3u8
+#EXTINF:-1 group-title="🇨🇳|Trung Quốc",法·24台
+http://tv.balkanweb.com:8081/news24/livestream/chunks.m3u8
+#EXTINF:-1 group-title="🇨🇳|Trung Quốc",法·时尚
+http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
+#EXTINF:-1 group-title="🇨🇳|Trung Quốc",法·时尚
+http://lb.streaming.sk/fashiontv/stream/chunklist_w1906011378.m3u8
+#EXTINF:-1 group-title="🇨🇳|Trung Quốc",美·NASA Public Channel
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+#EXTINF:-1 group-title="🇨🇳|Trung Quốc",美·NASA Public Channel
+https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_2000.m3u8
+#EXTINF:-1 group-title="🇨🇳|Trung Quốc",美·红牛运动
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+#EXTINF:-1 group-title="🇨🇳|Trung Quốc",美·红牛运动
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
+#EXTINF:-1 group-title="🇨🇳|Trung Quốc",泰·THAIPBS
+http://thaipbs-live.cdn.byteark.com/live-en/playlist_720p/index.m3u8
+#EXTINF:-1 group-title="🇨🇳|Trung Quốc",泰·公共三台
+http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
+#EXTINF:-1 group-title="🇨🇳|Trung Quốc",乌·100ws
+http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
+#EXTINF:-1 group-title="🇨🇳|Trung Quốc",乌·M2音乐
+http://live.m2.tv/hls3/stream.m3u8
+#EXTINF:-1 group-title="🇨🇳|Trung Quốc",西·加利西亚欧洲体育电视台
+http://europa-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1 group-title="🇨🇳|Trung Quốc",希·FoxTV
+http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
+#EXTINF:-1 group-title="🇨🇳|Trung Quốc",新加坡
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+#EXTINF:-1 group-title="🇨🇳|Trung Quốc",越·HBTV
+http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/playlist.m3u8
+#EXTINF:-1 group-title="🇨🇳|Trung Quốc",TVB J2
+https://j3.lhlh.app/mv.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="🇨🇳|Trung Quốc",澳亚卫视
+https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
+#EXTINF:-1 group-title="🇨🇳|Trung Quốc",TVBS新闻
+http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
+#EXTINF:-1 group-title="🇨🇳|Trung Quốc",TVBS新闻
+http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
+#EXTINF:-1 group-title="🇨🇳|Trung Quốc",民视新闻HD
+http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
+#EXTINF:-1 group-title="🇨🇳|Trung Quốc",番薯
+http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
+#EXTINF:-1 group-title="🇨🇳|Trung Quốc",点掌财经
+http://cclive2.aniu.tv/live/anzb.m3u8?zgangd
+#EXTINF:-1 group-title="🇨🇳|Trung Quốc",点掌财经
+http://cclive2.aniu.tv/live/anzb.m3u8
+#EXTINF:-1 group-title="🇨🇳|Trung Quốc",耀才财经
+http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
+#EXTINF:-1 group-title="🇨🇳|Trung Quốc",耀才财经
+http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
+#EXTINF:-1 group-title="🇨🇳|Trung Quốc",耀才财经
+http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000
+#EXTINF:-1 group-title="🇨🇳|Trung Quốc",耀才财经
+https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
+#EXTINF:-1 group-title="🇨🇳|Trung Quốc",ABC新闻
+http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8
+#EXTINF:-1 group-title="🇨🇳|Trung Quốc",NewsmaxTV
+http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+#EXTINF:-1 group-title="🇨🇳|Trung Quốc",PBSAmerica
+https://pbs-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="🇨🇳|Trung Quốc",moviesphere
+https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="🇨🇳|Trung Quốc",AlarabyTV
+https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="🇨🇳|Trung Quốc",ComedyChannel
+https://uksono1-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="🇨🇳|Trung Quốc",EdgeSport
+https://edgesport-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="🇨🇳|Trung Quốc",CanadaOne
+http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
+#EXTINF:-1 group-title="🇨🇳|Trung Quốc",CA
+https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
+#EXTINF:-1 group-title="🇨🇳|Trung Quốc",InsightTV
+https://insighttv-samsung-canada.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="🇨🇳|Trung Quốc",Inwonder
+https://inwonder-samsung-canada.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="🇨🇳|Trung Quốc",Astrakhan24(Opt-2)
+http://streaming.astrakhan.ru/astrakhan24/index.m3u8
+#EXTINF:-1 group-title="🇨🇳|Trung Quốc",UgraTV
+http://live.ugratv.cdnvideo.ru/ugratv/smil:ugrastream1.smil/playlist.m3u8
+#EXTINF:-1 group-title="🇨🇳|Trung Quốc",Самара
+http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="🇨🇳|Trung Quốc",UniverTV
+http://cdn.universmotri.ru/live/hq.sdp/chunklist_w1792531.m3u8
+#EXTINF:-1 group-title="🇨🇳|Trung Quốc",Comedy
+http://51.210.199.27/hls/stream.m3u8
+#EXTINF:-1 group-title="🇨🇳|Trung Quốc",Documentary
+http://51.210.199.23/hls/stream.m3u8
+#EXTINF:-1 group-title="🇨🇳|Trung Quốc",Family
+http://51.210.199.19/hls/stream.m3u8
+#EXTINF:-1 group-title="🇨🇳|Trung Quốc",Iranian
+http://51.210.199.22/hls/stream.m3u8
+#EXTINF:-1 group-title="🇨🇳|Trung Quốc",Music
+http://51.210.199.24/hls/stream.m3u8
+#EXTINF:-1 group-title="🇨🇳|Trung Quốc",Nostalgia
+http://51.210.199.20/hls/stream.m3u8
+#EXTINF:-1 group-title="🇨🇳|Trung Quốc",韩国-Arirang
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 group-title="🇨🇳|Trung Quốc",韩国-Arirang
+http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/chunklist_b1728000_sleng.m3u8
+#EXTINF:-1 group-title="🇨🇳|Trung Quốc",韩国-EBS1
+http://ebsonairios.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
+#EXTINF:-1 group-title="🇨🇳|Trung Quốc",韩国-EBS2
+http://ebsonairios.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 group-title="🇨🇳|Trung Quốc",韩国-EBSe
+http://ebsonairios.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 group-title="🇨🇳|Trung Quốc",韩国-KCTV
+http://119.77.96.184:1935/chn05/chn05/chunklist_w1306745753.m3u8
+#EXTINF:-1 group-title="🇨🇳|Trung Quốc",韩国-MBC综合频道
+http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
+#EXTINF:-1 group-title="🇨🇳|Trung Quốc",韩国-NBS Korea Agricultural Broadc
+https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
+#EXTINF:-1 group-title="🇨🇳|Trung Quốc",日本购物1
+http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
+#EXTINF:-1 group-title="🇨🇳|Trung Quốc",越南-VBSTV
+http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/playlist.m3u8
+#EXTINF:-1 group-title="🇨🇳|Trung Quốc",印尼-TVRISports
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+#EXTINF:-1 group-title="🇨🇳|Trung Quốc",印尼-TVRIKanal3
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/Stream(03)/index.m3u8
+#EXTINF:-1 group-title="🇨🇳|Trung Quốc",印尼-METROTV
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
+#EXTINF:-1 group-title="🇨🇳|Trung Quốc",伊朗-PBCTapeshTV
+http://iptv.tapesh.tv/tapesh/playlist.m3u8
+#EXTINF:-1 group-title="🇨🇳|Trung Quốc",伊拉克-SharqiyaNews
+http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
+#EXTINF:-1 group-title="🇨🇳|Trung Quốc",日本Shop Channel
+https://stream3.shopch.jp/HLS/master.m3u8
+#EXTINF:-1 group-title="🇨🇳|Trung Quốc",日本UN WeTV
+https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
+#EXTINF:-1 group-title="🇨🇳|Trung Quốc",J2台
+https://p2.weizan.cn/1646497941/269664979080385265/live.m3u8
+#EXTINF:-1 group-title="🇨🇳|Trung Quốc",香港卫视
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1 group-title="🇨🇳|Trung Quốc",香港佛陀
+http://js1.amtb.cn/liveedge/_definst_/livetv/chunklist.m3u8
+#EXTINF:-1 group-title="🇨🇳|Trung Quốc",香港佛陀
+https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
+#EXTINF:-1 group-title="🇨🇳|Trung Quốc",长城精品
+http://38.64.72.148:80/hls/modn/list/4008/chunklist0.m3u8
+#EXTINF:-1 group-title="🇨🇳|Trung Quốc",长城精品
+http://38.64.72.148:80/hls/modn/list/4008/chunklist1.m3u8
+#EXTINF:-1 group-title="🇨🇳|Trung Quốc",金砖中文
+http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="🇨🇳|Trung Quốc",儒释道经
+https://live.ciguang.tv/live/hdtv.m3u8?auth_key=5216465889-0-0-701a98b03302233fc07fa2ee9e85d39b
